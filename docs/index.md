@@ -125,7 +125,7 @@ function onDelete(td){
     
     </head>
 <body>
-center><<h1 style = "color: black;">
+<center><h1 style = "color: black;">
 Employee Management System</h1></center>
 <div class="d-flex justify-content-center p-2" style="background-color: #f9563a;">
         <div class="bg-light p-5">
