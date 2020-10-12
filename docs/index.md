@@ -135,7 +135,7 @@ Employee Management System</h1>
                         <input type="text" name="fullName" id="fullName" class="form-control" >
                     </div>
 <div>
-                        <label for="empCode">EMP Code</label>
+                        <label for="empCode">Department</label>
                         <input type="text" name="empCode" id="empCode" class="form-control">
                     </div>
 <div>
