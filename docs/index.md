@@ -157,7 +157,7 @@ Employee Management System</h1>
                     <thead>
 <tr>
                             <th>Full Name</th>
-                            <th>EMP Code</th>
+                            <th>Department</th>
                             <th>Salary</th>
                             <th>City</th>
                             <th></th>
