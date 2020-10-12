@@ -125,8 +125,8 @@ function onDelete(td){
     
     </head>
 <body>
-<h1 style = "color: black;">
-Employee Management System</h1>
+center><<h1 style = "color: black;">
+Employee Management System</h1></center>
 <div class="d-flex justify-content-center p-2" style="background-color: #f9563a;">
         <div class="bg-light p-5">
             <form autocomplete="off" onsubmit="onFormSubmit()" class="form-group">
